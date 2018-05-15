@@ -12,3 +12,6 @@ Actually, this is the default values :
 1 - 2 seconds = Button
 3 - 4 seconds = Crank
 5 - 6 seconds = Kicker
+
+![alt text](https://image.noelshack.com/fichiers/2018/20/2/1526378386-esp-sw.png)
+
