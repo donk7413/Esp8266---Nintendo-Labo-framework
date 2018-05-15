@@ -16,10 +16,12 @@ Wiring Schema :
 
 And this is the Nintendo Labo Garage Script :
 
-
+(Picture coming soon)
 
 
 I have set the vibration value in the output setting of the vibration module.
+
+
 
 It's very easy :
 Everytime that the user use a part, the left Joy-Con will emit a vibration for X seconds. That's all for the Labo Garage parts.
@@ -28,6 +30,10 @@ Actually, this is the default values :
 1 - 2 seconds = Button
 3 - 4 seconds = Crank
 5 - 6 seconds = Kicker
+The Setup : 
+![alt text](https://image.noelshack.com/fichiers/2018/20/2/1526380601-20180515-123421.png)
 
 The result : 
 ![alt text](https://media.giphy.com/media/1itJgjw6rr7YflfdTF/giphy.gif)
+
+
